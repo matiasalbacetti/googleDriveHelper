@@ -1,0 +1,17 @@
+C:\Users\Matías\source\repos\GoogleDriveHelper\GoogleDriveHelper\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Matías\source\repos\GoogleDriveHelper\GoogleDriveHelper\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Matías\source\repos\GoogleDriveHelper\GoogleDriveHelper\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Matías\source\repos\GoogleDriveHelper\GoogleDriveHelper\bin\Debug\netcoreapp2.1\GoogleDriveHelper.deps.json
+C:\Users\Matías\source\repos\GoogleDriveHelper\GoogleDriveHelper\bin\Debug\netcoreapp2.1\GoogleDriveHelper.runtimeconfig.json
+C:\Users\Matías\source\repos\GoogleDriveHelper\GoogleDriveHelper\bin\Debug\netcoreapp2.1\GoogleDriveHelper.runtimeconfig.dev.json
+C:\Users\Matías\source\repos\GoogleDriveHelper\GoogleDriveHelper\bin\Debug\netcoreapp2.1\GoogleDriveHelper.dll
+C:\Users\Matías\source\repos\GoogleDriveHelper\GoogleDriveHelper\obj\Debug\netcoreapp2.1\GoogleDriveHelper.csprojAssemblyReference.cache
+C:\Users\Matías\source\repos\GoogleDriveHelper\GoogleDriveHelper\obj\Debug\netcoreapp2.1\GoogleDriveHelper.RazorAssemblyInfo.cache
+C:\Users\Matías\source\repos\GoogleDriveHelper\GoogleDriveHelper\obj\Debug\netcoreapp2.1\GoogleDriveHelper.RazorAssemblyInfo.cs
+C:\Users\Matías\source\repos\GoogleDriveHelper\GoogleDriveHelper\obj\Debug\netcoreapp2.1\GoogleDriveHelper.AssemblyInfoInputs.cache
+C:\Users\Matías\source\repos\GoogleDriveHelper\GoogleDriveHelper\obj\Debug\netcoreapp2.1\GoogleDriveHelper.AssemblyInfo.cs
+C:\Users\Matías\source\repos\GoogleDriveHelper\GoogleDriveHelper\obj\Debug\netcoreapp2.1\GoogleDriveHelper.RazorTargetAssemblyInfo.cache
+C:\Users\Matías\source\repos\GoogleDriveHelper\GoogleDriveHelper\bin\Debug\netcoreapp2.1\Credentials\client_secret.json
+C:\Users\Matías\source\repos\GoogleDriveHelper\GoogleDriveHelper\bin\Debug\netcoreapp2.1\GoogleDriveHelper.pdb
+C:\Users\Matías\source\repos\GoogleDriveHelper\GoogleDriveHelper\obj\Debug\netcoreapp2.1\GoogleDriveHelper.dll
+C:\Users\Matías\source\repos\GoogleDriveHelper\GoogleDriveHelper\obj\Debug\netcoreapp2.1\GoogleDriveHelper.pdb
